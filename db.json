@@ -1,0 +1,29 @@
+{
+  "teamRoster": [
+    {
+      "fullName": "Jay Jenkins",
+      "position": "DH",
+      "id": 1
+    },
+    {
+      "fullName": "Alex Baker",
+      "position": "Catcher",
+      "id": 2
+    },
+    {
+      "fullName": "Kyle Sanders",
+      "position": "LF",
+      "id": 3
+    },
+    {
+      "fullName": "Eddie Fitz",
+      "position": "2B",
+      "id": 4
+    },
+    {
+      "fullName": "Kendall Richards",
+      "position": "SS",
+      "id": 6
+    }
+  ]
+}
